@@ -37,6 +37,13 @@ style_mono_light(
 )
 ```
 
+class: center, middle
+# 
+## Goal
+
+.center[**Identify the conditions when automated scoring can produce reliable scores and
+make constructed-response items more accessible to science researchers and teachers**] 
+---
 
 
 # Introduction
@@ -44,14 +51,16 @@ style_mono_light(
 ### Content Based Scoring
 
 
--  Content-based scoring refers to the type of scoring that evaluates the content of the responses, as opposed to the writing quality (e.g., essay).
+Content-based scoring refers to the type of scoring that evaluates the content of the responses, as opposed to the writing quality (e.g., essay).
 
 
 ### Concept Based Scoring
-- content-based scoring that do not involve the scoring of individual concepts. 
+
+
+concept-based scoring involve the scoring of individual concepts of a constructed response. 
 
 --
-- **Analytical Scoring!**
+ .center[**Analytical Scoring!**]
 
 ---
 
@@ -66,27 +75,6 @@ style_mono_light(
 - Improve the scoring consistency .
 
 ---
-# Reproducibility considerations
-
-### Reproducibililty of demographic estimates should be of primary concern
-
-
-- Used in public and health policy (e.g. things like mortality rates, but also population counts)
-
-
-- Used in other fields of study (control for age, race/ethnicity)
-
-
-#### Attitude is often 'taken as given' even though that isn't the case
-
---
-
-- We built this city (field) on theoretical and empirical approximations
-
-- Reproducibility is important to understand propagation of error and how demographic regularities may change over time
-
----
-
 
 # Method
 
@@ -149,7 +137,7 @@ $75\%$ of available responses were scored by humans
 
   - Research Scientist
 
-  - Advance Graduate Students
+  - Advanced Graduate Students
 
 ---
 
@@ -167,7 +155,60 @@ $75\%$ of available responses were scored by humans
 
 ---
 
+
+
 # Results
+
+
+
+.center[![](https://github.com/Mubarak-M/Auto-Scoring-Paper-Presentation/raw/main/slides/fig/Result%201.PNG?raw=TRUE)]
+
+---
+
+# Results
+
+.center[![](https://github.com/Mubarak-M/Auto-Scoring-Paper-Presentation/blob/main/slides/fig/Result%202.PNG?raw=TRUE)]
+
+---
+
+# Results
+
+.center[![](https://github.com/Mubarak-M/Auto-Scoring-Paper-Presentation/blob/main/slides/fig/Result%203.PNG?raw=TRUE)]
+
+---
+
+# Conlusion
+
+### Prospect
+
+- Has potential in scoring explanation items with complex scoring rubrics
+
+- May add value to human scoring of constructed responses for diagnosis and guidance
+
+- Will allow provision of elaborated specific feedback when scoring constructed
+response in large classes
+---
+
+# Conclusion
+
+### Obstacles
+
+- Difficulty in identifying underlying concepts and capture places where student's 
+argument were incomplete or inaccurate
+
+- Difficulty in capturing some unexpected vocabularies
+
+- Distinguishing between nonnormative, incorrect ideas from normative, correct scientific
+ideas
+
+--
+- Pronoun resolution is more difficult for c-rater
+
+- Requires large training data set
+
+---
+
+
 
 # Thank You
 
